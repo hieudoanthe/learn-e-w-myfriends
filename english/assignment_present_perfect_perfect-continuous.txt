@@ -3,28 +3,28 @@ Exercise 1: Choose the correct answer
 
 1. I ………. in this city for ten years.
 
-A. have lived
+A. have lived*
 B. am living
 C. have been living
 2. She ………. on the project since last month.
 
 A. has worked
 B. is working
-C. has been working
+C. has been working*
 3. The movie ………. yet.
 
 A. didn’t start
-B. hasn’t started
+B. hasn’t started*
 C. isn’t starting
 4. We ………. that museum before.
 
-A. haven’t visited
+A. haven’t visited*
 B. aren’t visiting
 C. haven’t been visiting
 5. How long ………. you ………. English?
 
 A. have, studied
-B have, been studying
+B have, been studying*
 C. are, studying
 6. They ………. each other since they were kids.
 
@@ -35,20 +35,20 @@ C. has known
 
 A. prepare
 B. have prepared
-C. had been preparing
+C. had been preparing*
 8. I ………. to Asia before this trip.
 
 A. am never
-B. have never been
+B. have never been*
 C. never was
 9. She ………. the book twice.
 
 A. read
-B. has read
+B. has read*
 C. has been reading
 10. How long ………. they ………. for us?
 
-A have, waited
+A have, waited*
 B have, been waiting
 C. are, waiting
 
