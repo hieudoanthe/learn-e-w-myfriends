@@ -88,13 +88,13 @@ Exercise 4: Find and correct the errors in the following sentences. Write “Tru
 Mary has never been studying abroad before. ->Mary has never studied
 I have been waiting three hours already! -> have waited
 We have painted my room, and we think it looks nicer. -> true
-She looks exhausted these days. She has worked too hard recently.
-I have called Liz for hours, but she hasn’t answered. 
-We have been knowing Mike for ages.
-I have worked hard all day and I need a rest.
-How long has he worked as a teacher?
-She has written a letter and has sent it to her friend.
-How many books has she ever read?
+She looks exhausted these days. She has worked too hard recently.-> has been working
+I have called Liz for hours, but she hasn’t answered.  -> true
+We have been knowing Mike for ages. -> true
+I have worked hard all day and I need a rest. -> true
+How long has he worked as a teacher? -> he been working
+She has written a letter and has sent it to her friend. -> been writting
+How many books has she ever read? -> true
 
 
 Exercise  5: Arrange and rewrite complete sentences
