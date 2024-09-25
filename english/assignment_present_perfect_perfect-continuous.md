@@ -1,6 +1,6 @@
 Exercise 1: Choose the correct answer
 (Bài tập 1: Chọn đáp án đúng)
-
+1. I .... in this city for 10 years.
 A. have lived*
 B. am living
 C. have been living
@@ -201,7 +201,7 @@ B: Maybe three cups of coffee.
 4.
 
 A: Can you go out with me this weekend?
-B: Sorry, I cannot. My exams are in a few weeks, so I (study) …has been studying……. a lot recently.
+B: Sorry, I cannot. My exams are in a few weeks, so I (study) …have been studying……. a lot recently.
 5.
 
 A: (you/ buy) ……Have you bought…. the train ticket yet?
